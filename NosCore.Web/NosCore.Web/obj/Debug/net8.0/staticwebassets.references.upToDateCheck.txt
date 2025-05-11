@@ -1,0 +1,2 @@
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.Web\NosCore.Web.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.Web\NosCore.Web.Client\obj\Debug\net8.0\staticwebassets.build.json

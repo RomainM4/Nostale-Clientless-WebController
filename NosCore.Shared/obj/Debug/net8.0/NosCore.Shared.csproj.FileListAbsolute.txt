@@ -1,0 +1,12 @@
+D:\Code Research\Nostale\NosCore\NosCore.Shared\obj\Debug\net8.0\NosCore.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code Research\Nostale\NosCore\NosCore.Shared\obj\Debug\net8.0\NosCore.Shared.AssemblyInfoInputs.cache
+D:\Code Research\Nostale\NosCore\NosCore.Shared\obj\Debug\net8.0\NosCore.Shared.AssemblyInfo.cs
+D:\Code Research\Nostale\NosCore\NosCore.Shared\obj\Debug\net8.0\NosCore.Shared.csproj.CoreCompileInputs.cache
+D:\Code Research\Nostale\NosCore\NosCore.Shared\bin\Debug\net8.0\NosCore.Shared.deps.json
+D:\Code Research\Nostale\NosCore\NosCore.Shared\bin\Debug\net8.0\NosCore.Shared.dll
+D:\Code Research\Nostale\NosCore\NosCore.Shared\bin\Debug\net8.0\NosCore.Shared.pdb
+D:\Code Research\Nostale\NosCore\NosCore.Shared\obj\Debug\net8.0\NosCore.Shared.csproj.AssemblyReference.cache
+D:\Code Research\Nostale\NosCore\NosCore.Shared\obj\Debug\net8.0\NosCore.Shared.dll
+D:\Code Research\Nostale\NosCore\NosCore.Shared\obj\Debug\net8.0\refint\NosCore.Shared.dll
+D:\Code Research\Nostale\NosCore\NosCore.Shared\obj\Debug\net8.0\NosCore.Shared.pdb
+D:\Code Research\Nostale\NosCore\NosCore.Shared\obj\Debug\net8.0\ref\NosCore.Shared.dll

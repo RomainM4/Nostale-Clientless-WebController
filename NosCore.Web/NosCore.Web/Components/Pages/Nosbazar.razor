@@ -1,0 +1,53 @@
+﻿@page "/nosbazar"
+@attribute [StreamRendering]
+
+@using NostaleSdk.Nosbazar;
+@using NosCore.Web.Data.HttpClients;
+
+@inject IControllerApiClient _ControllerApiClient
+
+<PageTitle>Nosbazar</PageTitle>
+
+<h1>Weather</h1>
+<Grid TItem="Auction"
+      Class="table table-hover table-bordered table-striped"
+      DataProvider="EmployeesDataProvider"
+      AllowFiltering="true"
+      AllowPaging="true"
+      PageSize="5"
+      AllowSorting="true"
+      Responsive="true">
+
+    <GridColumn TItem="Auction" HeaderText="Id" PropertyName="Id" SortKeySelector="item => item.ItemId">
+        @context.ItemId
+    </GridColumn>
+    <GridColumn TItem="Auction" HeaderText="Employee Name" PropertyName="Name" SortKeySelector="item => item.UserName">
+        @context.UserName
+    </GridColumn>
+    <GridColumn TItem="Auction" HeaderText="Designation" PropertyName="Designation" SortKeySelector="item => item.Price">
+        @context.Price
+    </GridColumn>
+    <GridColumn TItem="Auction" HeaderText="DOJ" PropertyName="DOJ" SortKeySelector="item => item.IsStacked">
+        @context.IsStacked
+    </GridColumn>
+    <GridColumn TItem="Auction" HeaderText="Active" PropertyName="IsActive" SortKeySelector="item => item.MinuteLeft">
+        @context.MinuteLeft
+    </GridColumn>
+
+</Grid>
+
+@code {
+    private IEnumerable<Auction> employees = default!;
+
+    private HashSet<Auction> selectedEmployees = new();
+
+    private async Task<GridDataProviderResult<Auction>> EmployeesDataProvider(GridDataProviderRequest<Auction> request)
+    {
+        if (employees is null)
+        {
+            employees = await _ControllerApiClient.SearchNosbazarAsync();
+        }
+        return await Task.FromResult(request.ApplyTo(employees));
+    }
+
+}

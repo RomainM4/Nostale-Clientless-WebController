@@ -1,0 +1,6 @@
+@NosCore.AuthApi_HostAddress = http://localhost:5088
+
+GET {{NosCore.AuthApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

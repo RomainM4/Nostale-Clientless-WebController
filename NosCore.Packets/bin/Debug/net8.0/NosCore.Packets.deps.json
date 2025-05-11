@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "NosCore.Packets/1.0.0": {
+        "dependencies": {
+          "NosCore.Sdk": "1.0.0"
+        },
+        "runtime": {
+          "NosCore.Packets.dll": {}
+        }
+      },
+      "NosCore.Sdk/1.0.0": {
+        "runtime": {
+          "NosCore.Sdk.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NosCore.Packets/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NosCore.Sdk/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

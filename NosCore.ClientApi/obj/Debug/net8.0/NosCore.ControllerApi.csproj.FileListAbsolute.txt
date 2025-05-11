@@ -1,0 +1,340 @@
+D:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\appsettings.Development.json
+D:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\appsettings.json
+D:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\NosCore.ControllerApi.exe
+D:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\NosCore.ControllerApi.deps.json
+D:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\NosCore.ControllerApi.runtimeconfig.json
+D:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\NosCore.ControllerApi.dll
+D:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\NosCore.ControllerApi.pdb
+D:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\Carter.dll
+D:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\FluentResults.dll
+D:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\FluentValidation.dll
+D:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\Google.Protobuf.dll
+D:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\Grpc.Core.Api.dll
+D:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\Grpc.Net.Client.dll
+D:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\Grpc.Net.Common.dll
+D:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\Mapster.dll
+D:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\Mapster.Core.dll
+D:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\MassTransit.dll
+D:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\MassTransit.Abstractions.dll
+D:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\MassTransit.RabbitMqTransport.dll
+D:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\MediatR.dll
+D:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\MediatR.Contracts.dll
+D:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+D:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\Microsoft.Extensions.AmbientMetadata.Application.dll
+D:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\Microsoft.Extensions.Compliance.Abstractions.dll
+D:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.AutoActivation.dll
+D:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.ExceptionSummarization.dll
+D:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\Microsoft.Extensions.Http.Diagnostics.dll
+D:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\Microsoft.Extensions.Http.Resilience.dll
+D:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\Microsoft.Extensions.Resilience.dll
+D:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\Microsoft.Extensions.ServiceDiscovery.dll
+D:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\Microsoft.Extensions.ServiceDiscovery.Abstractions.dll
+D:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\Microsoft.Extensions.Telemetry.dll
+D:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\Microsoft.Extensions.Telemetry.Abstractions.dll
+D:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\OpenTelemetry.dll
+D:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\OpenTelemetry.Api.dll
+D:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\OpenTelemetry.Api.ProviderBuilderExtensions.dll
+D:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\OpenTelemetry.Exporter.OpenTelemetryProtocol.dll
+D:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\OpenTelemetry.Extensions.Hosting.dll
+D:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\OpenTelemetry.Instrumentation.AspNetCore.dll
+D:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\OpenTelemetry.Instrumentation.GrpcNetClient.dll
+D:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\OpenTelemetry.Instrumentation.Http.dll
+D:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\OpenTelemetry.Instrumentation.Runtime.dll
+D:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\Polly.Core.dll
+D:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\Polly.Extensions.dll
+D:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\Polly.RateLimiting.dll
+D:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\RabbitMQ.Client.dll
+D:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\Contracts.dll
+D:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\NosCore.Packets.dll
+D:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\NosCore.ServiceDefaults.dll
+D:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\Contracts.pdb
+D:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\NosCore.Packets.pdb
+D:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\NosCore.ServiceDefaults.pdb
+D:\Code Research\Nostale\NosCore\NosCore.ClientApi\obj\Debug\net8.0\NosCore.ControllerApi.csproj.AssemblyReference.cache
+D:\Code Research\Nostale\NosCore\NosCore.ClientApi\obj\Debug\net8.0\NosCore.ControllerApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code Research\Nostale\NosCore\NosCore.ClientApi\obj\Debug\net8.0\NosCore.ControllerApi.AssemblyInfoInputs.cache
+D:\Code Research\Nostale\NosCore\NosCore.ClientApi\obj\Debug\net8.0\NosCore.ControllerApi.AssemblyInfo.cs
+D:\Code Research\Nostale\NosCore\NosCore.ClientApi\obj\Debug\net8.0\NosCore.ControllerApi.csproj.CoreCompileInputs.cache
+D:\Code Research\Nostale\NosCore\NosCore.ClientApi\obj\Debug\net8.0\NosCore.ControllerApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Code Research\Nostale\NosCore\NosCore.ClientApi\obj\Debug\net8.0\NosCore.ControllerApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Code Research\Nostale\NosCore\NosCore.ClientApi\obj\Debug\net8.0\staticwebassets.build.json
+D:\Code Research\Nostale\NosCore\NosCore.ClientApi\obj\Debug\net8.0\staticwebassets.development.json
+D:\Code Research\Nostale\NosCore\NosCore.ClientApi\obj\Debug\net8.0\staticwebassets\msbuild.NosCore.ControllerApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Code Research\Nostale\NosCore\NosCore.ClientApi\obj\Debug\net8.0\staticwebassets\msbuild.build.NosCore.ControllerApi.props
+D:\Code Research\Nostale\NosCore\NosCore.ClientApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.NosCore.ControllerApi.props
+D:\Code Research\Nostale\NosCore\NosCore.ClientApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.NosCore.ControllerApi.props
+D:\Code Research\Nostale\NosCore\NosCore.ClientApi\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Code Research\Nostale\NosCore\NosCore.ClientApi\obj\Debug\net8.0\scopedcss\bundle\NosCore.ControllerApi.styles.css
+D:\Code Research\Nostale\NosCore\NosCore.ClientApi\obj\Debug\net8.0\NosCore.ControllerApi.csproj.CopyComplete
+D:\Code Research\Nostale\NosCore\NosCore.ClientApi\obj\Debug\net8.0\NosCore.ControllerApi.dll
+D:\Code Research\Nostale\NosCore\NosCore.ClientApi\obj\Debug\net8.0\refint\NosCore.ControllerApi.dll
+D:\Code Research\Nostale\NosCore\NosCore.ClientApi\obj\Debug\net8.0\NosCore.ControllerApi.pdb
+D:\Code Research\Nostale\NosCore\NosCore.ClientApi\obj\Debug\net8.0\NosCore.ControllerApi.genruntimeconfig.cache
+D:\Code Research\Nostale\NosCore\NosCore.ClientApi\obj\Debug\net8.0\ref\NosCore.ControllerApi.dll
+D:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\NosCore.Sdk.dll
+D:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\NosCore.Sdk.pdb
+S:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\appsettings.Development.json
+S:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\appsettings.json
+S:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\NosCore.ControllerApi.exe
+S:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\NosCore.ControllerApi.deps.json
+S:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\NosCore.ControllerApi.runtimeconfig.json
+S:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\NosCore.ControllerApi.dll
+S:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\NosCore.ControllerApi.pdb
+S:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\Carter.dll
+S:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\FluentResults.dll
+S:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\FluentValidation.dll
+S:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+S:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\Google.Protobuf.dll
+S:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\Grpc.Core.Api.dll
+S:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\Grpc.Net.Client.dll
+S:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\Grpc.Net.Common.dll
+S:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\Mapster.dll
+S:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\Mapster.Core.dll
+S:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\MassTransit.dll
+S:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\MassTransit.Abstractions.dll
+S:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\MassTransit.RabbitMqTransport.dll
+S:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\MediatR.dll
+S:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\MediatR.Contracts.dll
+S:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+S:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\Microsoft.Extensions.AmbientMetadata.Application.dll
+S:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\Microsoft.Extensions.Compliance.Abstractions.dll
+S:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.AutoActivation.dll
+S:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+S:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\Microsoft.Extensions.DiagnosticAdapter.dll
+S:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.ExceptionSummarization.dll
+S:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\Microsoft.Extensions.Http.Diagnostics.dll
+S:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\Microsoft.Extensions.Http.Resilience.dll
+S:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\Microsoft.Extensions.Resilience.dll
+S:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\Microsoft.Extensions.ServiceDiscovery.dll
+S:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\Microsoft.Extensions.ServiceDiscovery.Abstractions.dll
+S:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\Microsoft.Extensions.Telemetry.dll
+S:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\Microsoft.Extensions.Telemetry.Abstractions.dll
+S:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+S:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+S:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\OpenTelemetry.dll
+S:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\OpenTelemetry.Api.dll
+S:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\OpenTelemetry.Api.ProviderBuilderExtensions.dll
+S:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\OpenTelemetry.Exporter.OpenTelemetryProtocol.dll
+S:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\OpenTelemetry.Extensions.Hosting.dll
+S:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\OpenTelemetry.Instrumentation.AspNetCore.dll
+S:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\OpenTelemetry.Instrumentation.GrpcNetClient.dll
+S:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\OpenTelemetry.Instrumentation.Http.dll
+S:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\OpenTelemetry.Instrumentation.Runtime.dll
+S:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\Polly.Core.dll
+S:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\Polly.Extensions.dll
+S:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\Polly.RateLimiting.dll
+S:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\RabbitMQ.Client.dll
+S:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+S:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+S:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+S:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\Contracts.dll
+S:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\NosCore.Packets.dll
+S:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\NosCore.Sdk.dll
+S:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\NosCore.ServiceDefaults.dll
+S:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\Contracts.pdb
+S:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\NosCore.Packets.pdb
+S:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\NosCore.ServiceDefaults.pdb
+S:\Code Research\Nostale\NosCore\NosCore.ClientApi\bin\Debug\net8.0\NosCore.Sdk.pdb
+S:\Code Research\Nostale\NosCore\NosCore.ClientApi\obj\Debug\net8.0\NosCore.ControllerApi.csproj.AssemblyReference.cache
+S:\Code Research\Nostale\NosCore\NosCore.ClientApi\obj\Debug\net8.0\NosCore.ControllerApi.GeneratedMSBuildEditorConfig.editorconfig
+S:\Code Research\Nostale\NosCore\NosCore.ClientApi\obj\Debug\net8.0\NosCore.ControllerApi.AssemblyInfoInputs.cache
+S:\Code Research\Nostale\NosCore\NosCore.ClientApi\obj\Debug\net8.0\NosCore.ControllerApi.AssemblyInfo.cs
+S:\Code Research\Nostale\NosCore\NosCore.ClientApi\obj\Debug\net8.0\NosCore.ControllerApi.csproj.CoreCompileInputs.cache
+S:\Code Research\Nostale\NosCore\NosCore.ClientApi\obj\Debug\net8.0\NosCore.ControllerApi.MvcApplicationPartsAssemblyInfo.cs
+S:\Code Research\Nostale\NosCore\NosCore.ClientApi\obj\Debug\net8.0\NosCore.ControllerApi.MvcApplicationPartsAssemblyInfo.cache
+S:\Code Research\Nostale\NosCore\NosCore.ClientApi\obj\Debug\net8.0\staticwebassets.build.json
+S:\Code Research\Nostale\NosCore\NosCore.ClientApi\obj\Debug\net8.0\staticwebassets.development.json
+S:\Code Research\Nostale\NosCore\NosCore.ClientApi\obj\Debug\net8.0\staticwebassets\msbuild.NosCore.ControllerApi.Microsoft.AspNetCore.StaticWebAssets.props
+S:\Code Research\Nostale\NosCore\NosCore.ClientApi\obj\Debug\net8.0\staticwebassets\msbuild.build.NosCore.ControllerApi.props
+S:\Code Research\Nostale\NosCore\NosCore.ClientApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.NosCore.ControllerApi.props
+S:\Code Research\Nostale\NosCore\NosCore.ClientApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.NosCore.ControllerApi.props
+S:\Code Research\Nostale\NosCore\NosCore.ClientApi\obj\Debug\net8.0\staticwebassets.pack.json
+S:\Code Research\Nostale\NosCore\NosCore.ClientApi\obj\Debug\net8.0\scopedcss\bundle\NosCore.ControllerApi.styles.css
+S:\Code Research\Nostale\NosCore\NosCore.ClientApi\obj\Debug\net8.0\NosCore..F9A18AA5.Up2Date
+S:\Code Research\Nostale\NosCore\NosCore.ClientApi\obj\Debug\net8.0\NosCore.ControllerApi.dll
+S:\Code Research\Nostale\NosCore\NosCore.ClientApi\obj\Debug\net8.0\refint\NosCore.ControllerApi.dll
+S:\Code Research\Nostale\NosCore\NosCore.ClientApi\obj\Debug\net8.0\NosCore.ControllerApi.pdb
+S:\Code Research\Nostale\NosCore\NosCore.ClientApi\obj\Debug\net8.0\NosCore.ControllerApi.genruntimeconfig.cache
+S:\Code Research\Nostale\NosCore\NosCore.ClientApi\obj\Debug\net8.0\ref\NosCore.ControllerApi.dll
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\appsettings.Development.json
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\appsettings.json
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\NosCore.ControllerApi.staticwebassets.endpoints.json
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\NosCore.ControllerApi.exe
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\NosCore.ControllerApi.deps.json
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\NosCore.ControllerApi.runtimeconfig.json
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\NosCore.ControllerApi.dll
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\NosCore.ControllerApi.pdb
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\Carter.dll
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\FluentResults.dll
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\FluentValidation.dll
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\Google.Protobuf.dll
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\Grpc.Core.Api.dll
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\Grpc.Net.Client.dll
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\Grpc.Net.Common.dll
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\Mapster.dll
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\Mapster.Core.dll
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\MassTransit.dll
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\MassTransit.Abstractions.dll
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\MassTransit.RabbitMqTransport.dll
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\MediatR.dll
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\MediatR.Contracts.dll
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\Microsoft.Extensions.AmbientMetadata.Application.dll
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\Microsoft.Extensions.Compliance.Abstractions.dll
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.AutoActivation.dll
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.ExceptionSummarization.dll
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\Microsoft.Extensions.Http.Diagnostics.dll
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\Microsoft.Extensions.Http.Resilience.dll
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\Microsoft.Extensions.Resilience.dll
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\Microsoft.Extensions.ServiceDiscovery.dll
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\Microsoft.Extensions.ServiceDiscovery.Abstractions.dll
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\Microsoft.Extensions.Telemetry.dll
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\Microsoft.Extensions.Telemetry.Abstractions.dll
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\OpenTelemetry.dll
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\OpenTelemetry.Api.dll
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\OpenTelemetry.Api.ProviderBuilderExtensions.dll
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\OpenTelemetry.Exporter.OpenTelemetryProtocol.dll
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\OpenTelemetry.Extensions.Hosting.dll
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\OpenTelemetry.Instrumentation.AspNetCore.dll
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\OpenTelemetry.Instrumentation.GrpcNetClient.dll
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\OpenTelemetry.Instrumentation.Http.dll
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\OpenTelemetry.Instrumentation.Runtime.dll
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\Polly.Core.dll
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\Polly.Extensions.dll
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\Polly.RateLimiting.dll
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\RabbitMQ.Client.dll
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\Contracts.dll
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\NosCore.Packets.dll
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\NosCore.Sdk.dll
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\NosCore.ServiceDefaults.dll
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\Contracts.pdb
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\NosCore.Packets.pdb
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\NosCore.ServiceDefaults.pdb
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\NosCore.Sdk.pdb
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ClientApi\obj\Debug\net8.0\NosCore.ControllerApi.csproj.AssemblyReference.cache
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ClientApi\obj\Debug\net8.0\NosCore.ControllerApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ClientApi\obj\Debug\net8.0\NosCore.ControllerApi.AssemblyInfoInputs.cache
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ClientApi\obj\Debug\net8.0\NosCore.ControllerApi.AssemblyInfo.cs
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ClientApi\obj\Debug\net8.0\NosCore.ControllerApi.csproj.CoreCompileInputs.cache
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ClientApi\obj\Debug\net8.0\NosCore.ControllerApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ClientApi\obj\Debug\net8.0\NosCore.ControllerApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ClientApi\obj\Debug\net8.0\scopedcss\bundle\NosCore.ControllerApi.styles.css
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ClientApi\obj\Debug\net8.0\staticwebassets.build.json
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ClientApi\obj\Debug\net8.0\staticwebassets.development.json
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ClientApi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ClientApi\obj\Debug\net8.0\staticwebassets\msbuild.NosCore.ControllerApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ClientApi\obj\Debug\net8.0\staticwebassets\msbuild.NosCore.ControllerApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ClientApi\obj\Debug\net8.0\staticwebassets\msbuild.build.NosCore.ControllerApi.props
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ClientApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.NosCore.ControllerApi.props
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ClientApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.NosCore.ControllerApi.props
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ClientApi\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ClientApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ClientApi\obj\Debug\net8.0\NosCore..F9A18AA5.Up2Date
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ClientApi\obj\Debug\net8.0\NosCore.ControllerApi.dll
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ClientApi\obj\Debug\net8.0\refint\NosCore.ControllerApi.dll
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ClientApi\obj\Debug\net8.0\NosCore.ControllerApi.pdb
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ClientApi\obj\Debug\net8.0\NosCore.ControllerApi.genruntimeconfig.cache
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ClientApi\obj\Debug\net8.0\ref\NosCore.ControllerApi.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\appsettings.json
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\NosCore.ControllerApi.staticwebassets.endpoints.json
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\NosCore.ControllerApi.exe
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\NosCore.ControllerApi.deps.json
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\NosCore.ControllerApi.runtimeconfig.json
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\NosCore.ControllerApi.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\NosCore.ControllerApi.pdb
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\Carter.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\FluentResults.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\Grpc.Core.Api.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\Grpc.Net.Client.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\Grpc.Net.Common.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\Mapster.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\Mapster.Core.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\MassTransit.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\MassTransit.Abstractions.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\MassTransit.RabbitMqTransport.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\MediatR.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\Microsoft.Extensions.AmbientMetadata.Application.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\Microsoft.Extensions.Compliance.Abstractions.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.AutoActivation.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.ExceptionSummarization.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\Microsoft.Extensions.Http.Diagnostics.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\Microsoft.Extensions.Http.Resilience.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\Microsoft.Extensions.Resilience.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\Microsoft.Extensions.ServiceDiscovery.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\Microsoft.Extensions.ServiceDiscovery.Abstractions.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\Microsoft.Extensions.Telemetry.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\Microsoft.Extensions.Telemetry.Abstractions.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\OpenTelemetry.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\OpenTelemetry.Api.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\OpenTelemetry.Api.ProviderBuilderExtensions.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\OpenTelemetry.Exporter.OpenTelemetryProtocol.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\OpenTelemetry.Extensions.Hosting.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\OpenTelemetry.Instrumentation.AspNetCore.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\OpenTelemetry.Instrumentation.GrpcNetClient.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\OpenTelemetry.Instrumentation.Http.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\OpenTelemetry.Instrumentation.Runtime.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\Polly.Core.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\Polly.Extensions.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\Polly.RateLimiting.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\Contracts.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\NosCore.Packets.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\NosCore.Sdk.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\NosCore.ServiceDefaults.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\Contracts.pdb
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\NosCore.Packets.pdb
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\NosCore.ServiceDefaults.pdb
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ClientApi\bin\Debug\net8.0\NosCore.Sdk.pdb
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ClientApi\obj\Debug\net8.0\NosCore.ControllerApi.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ClientApi\obj\Debug\net8.0\NosCore.ControllerApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ClientApi\obj\Debug\net8.0\NosCore.ControllerApi.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ClientApi\obj\Debug\net8.0\NosCore.ControllerApi.AssemblyInfo.cs
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ClientApi\obj\Debug\net8.0\NosCore.ControllerApi.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ClientApi\obj\Debug\net8.0\NosCore.ControllerApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ClientApi\obj\Debug\net8.0\NosCore.ControllerApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ClientApi\obj\Debug\net8.0\scopedcss\bundle\NosCore.ControllerApi.styles.css
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ClientApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ClientApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ClientApi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ClientApi\obj\Debug\net8.0\staticwebassets\msbuild.NosCore.ControllerApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ClientApi\obj\Debug\net8.0\staticwebassets\msbuild.NosCore.ControllerApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ClientApi\obj\Debug\net8.0\staticwebassets\msbuild.build.NosCore.ControllerApi.props
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ClientApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.NosCore.ControllerApi.props
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ClientApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.NosCore.ControllerApi.props
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ClientApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ClientApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ClientApi\obj\Debug\net8.0\NosCore..F9A18AA5.Up2Date
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ClientApi\obj\Debug\net8.0\NosCore.ControllerApi.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ClientApi\obj\Debug\net8.0\refint\NosCore.ControllerApi.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ClientApi\obj\Debug\net8.0\NosCore.ControllerApi.pdb
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ClientApi\obj\Debug\net8.0\NosCore.ControllerApi.genruntimeconfig.cache
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ClientApi\obj\Debug\net8.0\ref\NosCore.ControllerApi.dll

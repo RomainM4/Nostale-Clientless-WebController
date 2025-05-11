@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "TDYN2eaqkUa0O0b9f9drUXAKOjLUhskrT7OjoN7KaFU=",
+  "Source": "NosCore.ClientApi",
+  "BasePath": "_content/NosCore.ClientApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

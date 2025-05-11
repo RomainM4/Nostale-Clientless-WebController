@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\NosCore.GameAuthenticationApi.props" />
+</Project>

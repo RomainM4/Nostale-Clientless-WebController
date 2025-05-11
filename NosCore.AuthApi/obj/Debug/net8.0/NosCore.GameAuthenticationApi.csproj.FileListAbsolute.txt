@@ -1,0 +1,158 @@
+D:\Code Research\Nostale\NosCore\NosCore.AuthApi\bin\Debug\net8.0\appsettings.Development.json
+D:\Code Research\Nostale\NosCore\NosCore.AuthApi\bin\Debug\net8.0\appsettings.json
+D:\Code Research\Nostale\NosCore\NosCore.AuthApi\bin\Debug\net8.0\NosCore.GameAuthenticationApi.exe
+D:\Code Research\Nostale\NosCore\NosCore.AuthApi\bin\Debug\net8.0\NosCore.GameAuthenticationApi.deps.json
+D:\Code Research\Nostale\NosCore\NosCore.AuthApi\bin\Debug\net8.0\NosCore.GameAuthenticationApi.runtimeconfig.json
+D:\Code Research\Nostale\NosCore\NosCore.AuthApi\bin\Debug\net8.0\NosCore.GameAuthenticationApi.dll
+D:\Code Research\Nostale\NosCore\NosCore.AuthApi\bin\Debug\net8.0\NosCore.GameAuthenticationApi.pdb
+D:\Code Research\Nostale\NosCore\NosCore.AuthApi\bin\Debug\net8.0\Carter.dll
+D:\Code Research\Nostale\NosCore\NosCore.AuthApi\bin\Debug\net8.0\FluentResults.dll
+D:\Code Research\Nostale\NosCore\NosCore.AuthApi\bin\Debug\net8.0\FluentValidation.dll
+D:\Code Research\Nostale\NosCore\NosCore.AuthApi\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Code Research\Nostale\NosCore\NosCore.AuthApi\bin\Debug\net8.0\Google.Protobuf.dll
+D:\Code Research\Nostale\NosCore\NosCore.AuthApi\bin\Debug\net8.0\Grpc.Core.Api.dll
+D:\Code Research\Nostale\NosCore\NosCore.AuthApi\bin\Debug\net8.0\Grpc.Net.Client.dll
+D:\Code Research\Nostale\NosCore\NosCore.AuthApi\bin\Debug\net8.0\Grpc.Net.Common.dll
+D:\Code Research\Nostale\NosCore\NosCore.AuthApi\bin\Debug\net8.0\Mapster.dll
+D:\Code Research\Nostale\NosCore\NosCore.AuthApi\bin\Debug\net8.0\Mapster.Core.dll
+D:\Code Research\Nostale\NosCore\NosCore.AuthApi\bin\Debug\net8.0\MediatR.dll
+D:\Code Research\Nostale\NosCore\NosCore.AuthApi\bin\Debug\net8.0\MediatR.Contracts.dll
+D:\Code Research\Nostale\NosCore\NosCore.AuthApi\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+D:\Code Research\Nostale\NosCore\NosCore.AuthApi\bin\Debug\net8.0\Microsoft.Extensions.AmbientMetadata.Application.dll
+D:\Code Research\Nostale\NosCore\NosCore.AuthApi\bin\Debug\net8.0\Microsoft.Extensions.Compliance.Abstractions.dll
+D:\Code Research\Nostale\NosCore\NosCore.AuthApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.AutoActivation.dll
+D:\Code Research\Nostale\NosCore\NosCore.AuthApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Code Research\Nostale\NosCore\NosCore.AuthApi\bin\Debug\net8.0\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\Code Research\Nostale\NosCore\NosCore.AuthApi\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.ExceptionSummarization.dll
+D:\Code Research\Nostale\NosCore\NosCore.AuthApi\bin\Debug\net8.0\Microsoft.Extensions.Http.Diagnostics.dll
+D:\Code Research\Nostale\NosCore\NosCore.AuthApi\bin\Debug\net8.0\Microsoft.Extensions.Http.Resilience.dll
+D:\Code Research\Nostale\NosCore\NosCore.AuthApi\bin\Debug\net8.0\Microsoft.Extensions.Resilience.dll
+D:\Code Research\Nostale\NosCore\NosCore.AuthApi\bin\Debug\net8.0\Microsoft.Extensions.ServiceDiscovery.dll
+D:\Code Research\Nostale\NosCore\NosCore.AuthApi\bin\Debug\net8.0\Microsoft.Extensions.ServiceDiscovery.Abstractions.dll
+D:\Code Research\Nostale\NosCore\NosCore.AuthApi\bin\Debug\net8.0\Microsoft.Extensions.Telemetry.dll
+D:\Code Research\Nostale\NosCore\NosCore.AuthApi\bin\Debug\net8.0\Microsoft.Extensions.Telemetry.Abstractions.dll
+D:\Code Research\Nostale\NosCore\NosCore.AuthApi\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Code Research\Nostale\NosCore\NosCore.AuthApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Code Research\Nostale\NosCore\NosCore.AuthApi\bin\Debug\net8.0\OpenTelemetry.dll
+D:\Code Research\Nostale\NosCore\NosCore.AuthApi\bin\Debug\net8.0\OpenTelemetry.Api.dll
+D:\Code Research\Nostale\NosCore\NosCore.AuthApi\bin\Debug\net8.0\OpenTelemetry.Api.ProviderBuilderExtensions.dll
+D:\Code Research\Nostale\NosCore\NosCore.AuthApi\bin\Debug\net8.0\OpenTelemetry.Exporter.OpenTelemetryProtocol.dll
+D:\Code Research\Nostale\NosCore\NosCore.AuthApi\bin\Debug\net8.0\OpenTelemetry.Extensions.Hosting.dll
+D:\Code Research\Nostale\NosCore\NosCore.AuthApi\bin\Debug\net8.0\OpenTelemetry.Instrumentation.AspNetCore.dll
+D:\Code Research\Nostale\NosCore\NosCore.AuthApi\bin\Debug\net8.0\OpenTelemetry.Instrumentation.GrpcNetClient.dll
+D:\Code Research\Nostale\NosCore\NosCore.AuthApi\bin\Debug\net8.0\OpenTelemetry.Instrumentation.Http.dll
+D:\Code Research\Nostale\NosCore\NosCore.AuthApi\bin\Debug\net8.0\OpenTelemetry.Instrumentation.Runtime.dll
+D:\Code Research\Nostale\NosCore\NosCore.AuthApi\bin\Debug\net8.0\Polly.Core.dll
+D:\Code Research\Nostale\NosCore\NosCore.AuthApi\bin\Debug\net8.0\Polly.Extensions.dll
+D:\Code Research\Nostale\NosCore\NosCore.AuthApi\bin\Debug\net8.0\Polly.RateLimiting.dll
+D:\Code Research\Nostale\NosCore\NosCore.AuthApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Code Research\Nostale\NosCore\NosCore.AuthApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Code Research\Nostale\NosCore\NosCore.AuthApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Code Research\Nostale\NosCore\NosCore.AuthApi\bin\Debug\net8.0\Contracts.dll
+D:\Code Research\Nostale\NosCore\NosCore.AuthApi\bin\Debug\net8.0\NosCore.ServiceDefaults.dll
+D:\Code Research\Nostale\NosCore\NosCore.AuthApi\bin\Debug\net8.0\Contracts.pdb
+D:\Code Research\Nostale\NosCore\NosCore.AuthApi\bin\Debug\net8.0\NosCore.ServiceDefaults.pdb
+D:\Code Research\Nostale\NosCore\NosCore.AuthApi\obj\Debug\net8.0\NosCore.GameAuthenticationApi.csproj.AssemblyReference.cache
+D:\Code Research\Nostale\NosCore\NosCore.AuthApi\obj\Debug\net8.0\NosCore.GameAuthenticationApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code Research\Nostale\NosCore\NosCore.AuthApi\obj\Debug\net8.0\NosCore.GameAuthenticationApi.AssemblyInfoInputs.cache
+D:\Code Research\Nostale\NosCore\NosCore.AuthApi\obj\Debug\net8.0\NosCore.GameAuthenticationApi.AssemblyInfo.cs
+D:\Code Research\Nostale\NosCore\NosCore.AuthApi\obj\Debug\net8.0\NosCore.GameAuthenticationApi.csproj.CoreCompileInputs.cache
+D:\Code Research\Nostale\NosCore\NosCore.AuthApi\obj\Debug\net8.0\NosCore.GameAuthenticationApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Code Research\Nostale\NosCore\NosCore.AuthApi\obj\Debug\net8.0\NosCore.GameAuthenticationApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Code Research\Nostale\NosCore\NosCore.AuthApi\obj\Debug\net8.0\staticwebassets.build.json
+D:\Code Research\Nostale\NosCore\NosCore.AuthApi\obj\Debug\net8.0\staticwebassets.development.json
+D:\Code Research\Nostale\NosCore\NosCore.AuthApi\obj\Debug\net8.0\staticwebassets\msbuild.NosCore.GameAuthenticationApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Code Research\Nostale\NosCore\NosCore.AuthApi\obj\Debug\net8.0\staticwebassets\msbuild.build.NosCore.GameAuthenticationApi.props
+D:\Code Research\Nostale\NosCore\NosCore.AuthApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.NosCore.GameAuthenticationApi.props
+D:\Code Research\Nostale\NosCore\NosCore.AuthApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.NosCore.GameAuthenticationApi.props
+D:\Code Research\Nostale\NosCore\NosCore.AuthApi\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Code Research\Nostale\NosCore\NosCore.AuthApi\obj\Debug\net8.0\scopedcss\bundle\NosCore.GameAuthenticationApi.styles.css
+D:\Code Research\Nostale\NosCore\NosCore.AuthApi\obj\Debug\net8.0\NosCore.GameAuthenticationApi.csproj.CopyComplete
+D:\Code Research\Nostale\NosCore\NosCore.AuthApi\obj\Debug\net8.0\NosCore.GameAuthenticationApi.dll
+D:\Code Research\Nostale\NosCore\NosCore.AuthApi\obj\Debug\net8.0\refint\NosCore.GameAuthenticationApi.dll
+D:\Code Research\Nostale\NosCore\NosCore.AuthApi\obj\Debug\net8.0\NosCore.GameAuthenticationApi.pdb
+D:\Code Research\Nostale\NosCore\NosCore.AuthApi\obj\Debug\net8.0\NosCore.GameAuthenticationApi.genruntimeconfig.cache
+D:\Code Research\Nostale\NosCore\NosCore.AuthApi\obj\Debug\net8.0\ref\NosCore.GameAuthenticationApi.dll
+D:\Code Research\Nostale\NosCore\NosCore.AuthApi\bin\Debug\net8.0\NosCore.Sdk.dll
+D:\Code Research\Nostale\NosCore\NosCore.AuthApi\bin\Debug\net8.0\NosCore.Sdk.pdb
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.AuthApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.AuthApi\bin\Debug\net8.0\appsettings.json
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.AuthApi\bin\Debug\net8.0\NosCore.GameAuthenticationApi.staticwebassets.endpoints.json
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.AuthApi\bin\Debug\net8.0\NosCore.GameAuthenticationApi.exe
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.AuthApi\bin\Debug\net8.0\NosCore.GameAuthenticationApi.deps.json
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.AuthApi\bin\Debug\net8.0\NosCore.GameAuthenticationApi.runtimeconfig.json
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.AuthApi\bin\Debug\net8.0\NosCore.GameAuthenticationApi.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.AuthApi\bin\Debug\net8.0\NosCore.GameAuthenticationApi.pdb
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.AuthApi\bin\Debug\net8.0\Carter.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.AuthApi\bin\Debug\net8.0\FluentResults.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.AuthApi\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.AuthApi\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.AuthApi\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.AuthApi\bin\Debug\net8.0\Grpc.Core.Api.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.AuthApi\bin\Debug\net8.0\Grpc.Net.Client.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.AuthApi\bin\Debug\net8.0\Grpc.Net.Common.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.AuthApi\bin\Debug\net8.0\Mapster.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.AuthApi\bin\Debug\net8.0\Mapster.Core.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.AuthApi\bin\Debug\net8.0\MediatR.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.AuthApi\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.AuthApi\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.AuthApi\bin\Debug\net8.0\Microsoft.Extensions.AmbientMetadata.Application.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.AuthApi\bin\Debug\net8.0\Microsoft.Extensions.Compliance.Abstractions.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.AuthApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.AutoActivation.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.AuthApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.AuthApi\bin\Debug\net8.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.AuthApi\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.ExceptionSummarization.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.AuthApi\bin\Debug\net8.0\Microsoft.Extensions.Http.Diagnostics.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.AuthApi\bin\Debug\net8.0\Microsoft.Extensions.Http.Resilience.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.AuthApi\bin\Debug\net8.0\Microsoft.Extensions.Resilience.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.AuthApi\bin\Debug\net8.0\Microsoft.Extensions.ServiceDiscovery.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.AuthApi\bin\Debug\net8.0\Microsoft.Extensions.ServiceDiscovery.Abstractions.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.AuthApi\bin\Debug\net8.0\Microsoft.Extensions.Telemetry.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.AuthApi\bin\Debug\net8.0\Microsoft.Extensions.Telemetry.Abstractions.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.AuthApi\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.AuthApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.AuthApi\bin\Debug\net8.0\OpenTelemetry.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.AuthApi\bin\Debug\net8.0\OpenTelemetry.Api.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.AuthApi\bin\Debug\net8.0\OpenTelemetry.Api.ProviderBuilderExtensions.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.AuthApi\bin\Debug\net8.0\OpenTelemetry.Exporter.OpenTelemetryProtocol.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.AuthApi\bin\Debug\net8.0\OpenTelemetry.Extensions.Hosting.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.AuthApi\bin\Debug\net8.0\OpenTelemetry.Instrumentation.AspNetCore.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.AuthApi\bin\Debug\net8.0\OpenTelemetry.Instrumentation.GrpcNetClient.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.AuthApi\bin\Debug\net8.0\OpenTelemetry.Instrumentation.Http.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.AuthApi\bin\Debug\net8.0\OpenTelemetry.Instrumentation.Runtime.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.AuthApi\bin\Debug\net8.0\Polly.Core.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.AuthApi\bin\Debug\net8.0\Polly.Extensions.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.AuthApi\bin\Debug\net8.0\Polly.RateLimiting.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.AuthApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.AuthApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.AuthApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.AuthApi\bin\Debug\net8.0\Contracts.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.AuthApi\bin\Debug\net8.0\NosCore.Sdk.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.AuthApi\bin\Debug\net8.0\NosCore.ServiceDefaults.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.AuthApi\bin\Debug\net8.0\Contracts.pdb
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.AuthApi\bin\Debug\net8.0\NosCore.ServiceDefaults.pdb
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.AuthApi\bin\Debug\net8.0\NosCore.Sdk.pdb
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.AuthApi\obj\Debug\net8.0\NosCore.GameAuthenticationApi.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.AuthApi\obj\Debug\net8.0\NosCore.GameAuthenticationApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.AuthApi\obj\Debug\net8.0\NosCore.GameAuthenticationApi.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.AuthApi\obj\Debug\net8.0\NosCore.GameAuthenticationApi.AssemblyInfo.cs
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.AuthApi\obj\Debug\net8.0\NosCore.GameAuthenticationApi.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.AuthApi\obj\Debug\net8.0\NosCore.GameAuthenticationApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.AuthApi\obj\Debug\net8.0\NosCore.GameAuthenticationApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.AuthApi\obj\Debug\net8.0\scopedcss\bundle\NosCore.GameAuthenticationApi.styles.css
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.AuthApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.AuthApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.AuthApi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.AuthApi\obj\Debug\net8.0\staticwebassets\msbuild.NosCore.GameAuthenticationApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.AuthApi\obj\Debug\net8.0\staticwebassets\msbuild.NosCore.GameAuthenticationApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.AuthApi\obj\Debug\net8.0\staticwebassets\msbuild.build.NosCore.GameAuthenticationApi.props
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.AuthApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.NosCore.GameAuthenticationApi.props
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.AuthApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.NosCore.GameAuthenticationApi.props
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.AuthApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.AuthApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.AuthApi\obj\Debug\net8.0\NosCore..574D1A8C.Up2Date
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.AuthApi\obj\Debug\net8.0\NosCore.GameAuthenticationApi.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.AuthApi\obj\Debug\net8.0\refint\NosCore.GameAuthenticationApi.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.AuthApi\obj\Debug\net8.0\NosCore.GameAuthenticationApi.pdb
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.AuthApi\obj\Debug\net8.0\NosCore.GameAuthenticationApi.genruntimeconfig.cache
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.AuthApi\obj\Debug\net8.0\ref\NosCore.GameAuthenticationApi.dll

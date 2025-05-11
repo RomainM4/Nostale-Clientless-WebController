@@ -1,0 +1,60 @@
+D:\Code Research\Nostale\NosCore\NosCore.Packets\obj\Debug\net8.0\NosCore.Packets.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code Research\Nostale\NosCore\NosCore.Packets\obj\Debug\net8.0\NosCore.Packets.AssemblyInfoInputs.cache
+D:\Code Research\Nostale\NosCore\NosCore.Packets\obj\Debug\net8.0\NosCore.Packets.AssemblyInfo.cs
+D:\Code Research\Nostale\NosCore\NosCore.Packets\obj\Debug\net8.0\NosCore.Packets.csproj.CoreCompileInputs.cache
+D:\Code Research\Nostale\NosCore\NosCore.Packets\bin\Debug\net8.0\NosCore.Packets.deps.json
+D:\Code Research\Nostale\NosCore\NosCore.Packets\bin\Debug\net8.0\NosCore.Packets.dll
+D:\Code Research\Nostale\NosCore\NosCore.Packets\bin\Debug\net8.0\NosCore.Packets.pdb
+D:\Code Research\Nostale\NosCore\NosCore.Packets\obj\Debug\net8.0\NosCore.Packets.dll
+D:\Code Research\Nostale\NosCore\NosCore.Packets\obj\Debug\net8.0\refint\NosCore.Packets.dll
+D:\Code Research\Nostale\NosCore\NosCore.Packets\obj\Debug\net8.0\NosCore.Packets.pdb
+D:\Code Research\Nostale\NosCore\NosCore.Packets\obj\Debug\net8.0\ref\NosCore.Packets.dll
+D:\Code Research\Nostale\NosCore\NosCore.Packets\obj\Debug\net8.0\NosCore.Packets.csproj.AssemblyReference.cache
+D:\Code Research\Nostale\NosCore\NosCore.Packets\obj\Debug\net8.0\NosCore.Packets.csproj.CopyComplete
+D:\Code Research\Nostale\NosCore\NosCore.Packets\bin\Debug\net8.0\NosCore.Sdk.dll
+D:\Code Research\Nostale\NosCore\NosCore.Packets\bin\Debug\net8.0\NosCore.Sdk.pdb
+S:\Code Research\Nostale\NosCore\NosCore.Packets\bin\Debug\net8.0\NosCore.Packets.deps.json
+S:\Code Research\Nostale\NosCore\NosCore.Packets\bin\Debug\net8.0\NosCore.Packets.dll
+S:\Code Research\Nostale\NosCore\NosCore.Packets\bin\Debug\net8.0\NosCore.Packets.pdb
+S:\Code Research\Nostale\NosCore\NosCore.Packets\bin\Debug\net8.0\NosCore.Sdk.dll
+S:\Code Research\Nostale\NosCore\NosCore.Packets\bin\Debug\net8.0\NosCore.Sdk.pdb
+S:\Code Research\Nostale\NosCore\NosCore.Packets\obj\Debug\net8.0\NosCore.Packets.csproj.AssemblyReference.cache
+S:\Code Research\Nostale\NosCore\NosCore.Packets\obj\Debug\net8.0\NosCore.Packets.GeneratedMSBuildEditorConfig.editorconfig
+S:\Code Research\Nostale\NosCore\NosCore.Packets\obj\Debug\net8.0\NosCore.Packets.AssemblyInfoInputs.cache
+S:\Code Research\Nostale\NosCore\NosCore.Packets\obj\Debug\net8.0\NosCore.Packets.AssemblyInfo.cs
+S:\Code Research\Nostale\NosCore\NosCore.Packets\obj\Debug\net8.0\NosCore.Packets.csproj.CoreCompileInputs.cache
+S:\Code Research\Nostale\NosCore\NosCore.Packets\obj\Debug\net8.0\NosCore..BDE700EB.Up2Date
+S:\Code Research\Nostale\NosCore\NosCore.Packets\obj\Debug\net8.0\NosCore.Packets.dll
+S:\Code Research\Nostale\NosCore\NosCore.Packets\obj\Debug\net8.0\refint\NosCore.Packets.dll
+S:\Code Research\Nostale\NosCore\NosCore.Packets\obj\Debug\net8.0\NosCore.Packets.pdb
+S:\Code Research\Nostale\NosCore\NosCore.Packets\obj\Debug\net8.0\ref\NosCore.Packets.dll
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.Packets\bin\Debug\net8.0\NosCore.Packets.deps.json
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.Packets\bin\Debug\net8.0\NosCore.Packets.dll
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.Packets\bin\Debug\net8.0\NosCore.Packets.pdb
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.Packets\bin\Debug\net8.0\NosCore.Sdk.dll
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.Packets\bin\Debug\net8.0\NosCore.Sdk.pdb
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.Packets\obj\Debug\net8.0\NosCore.Packets.csproj.AssemblyReference.cache
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.Packets\obj\Debug\net8.0\NosCore.Packets.GeneratedMSBuildEditorConfig.editorconfig
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.Packets\obj\Debug\net8.0\NosCore.Packets.AssemblyInfoInputs.cache
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.Packets\obj\Debug\net8.0\NosCore.Packets.AssemblyInfo.cs
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.Packets\obj\Debug\net8.0\NosCore.Packets.csproj.CoreCompileInputs.cache
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.Packets\obj\Debug\net8.0\NosCore..BDE700EB.Up2Date
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.Packets\obj\Debug\net8.0\NosCore.Packets.dll
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.Packets\obj\Debug\net8.0\refint\NosCore.Packets.dll
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.Packets\obj\Debug\net8.0\NosCore.Packets.pdb
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.Packets\obj\Debug\net8.0\ref\NosCore.Packets.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.Packets\bin\Debug\net8.0\NosCore.Packets.deps.json
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.Packets\bin\Debug\net8.0\NosCore.Packets.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.Packets\bin\Debug\net8.0\NosCore.Packets.pdb
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.Packets\bin\Debug\net8.0\NosCore.Sdk.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.Packets\bin\Debug\net8.0\NosCore.Sdk.pdb
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.Packets\obj\Debug\net8.0\NosCore.Packets.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.Packets\obj\Debug\net8.0\NosCore.Packets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.Packets\obj\Debug\net8.0\NosCore.Packets.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.Packets\obj\Debug\net8.0\NosCore.Packets.AssemblyInfo.cs
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.Packets\obj\Debug\net8.0\NosCore.Packets.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.Packets\obj\Debug\net8.0\NosCore..BDE700EB.Up2Date
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.Packets\obj\Debug\net8.0\NosCore.Packets.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.Packets\obj\Debug\net8.0\refint\NosCore.Packets.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.Packets\obj\Debug\net8.0\NosCore.Packets.pdb
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.Packets\obj\Debug\net8.0\ref\NosCore.Packets.dll

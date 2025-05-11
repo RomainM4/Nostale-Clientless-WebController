@@ -1,0 +1,60 @@
+D:\Code Research\Nostale\NosCore\Contracts\bin\Debug\net8.0\Contracts.deps.json
+D:\Code Research\Nostale\NosCore\Contracts\bin\Debug\net8.0\Contracts.dll
+D:\Code Research\Nostale\NosCore\Contracts\bin\Debug\net8.0\Contracts.pdb
+D:\Code Research\Nostale\NosCore\Contracts\obj\Debug\net8.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code Research\Nostale\NosCore\Contracts\obj\Debug\net8.0\Contracts.AssemblyInfoInputs.cache
+D:\Code Research\Nostale\NosCore\Contracts\obj\Debug\net8.0\Contracts.AssemblyInfo.cs
+D:\Code Research\Nostale\NosCore\Contracts\obj\Debug\net8.0\Contracts.csproj.CoreCompileInputs.cache
+D:\Code Research\Nostale\NosCore\Contracts\obj\Debug\net8.0\Contracts.dll
+D:\Code Research\Nostale\NosCore\Contracts\obj\Debug\net8.0\refint\Contracts.dll
+D:\Code Research\Nostale\NosCore\Contracts\obj\Debug\net8.0\Contracts.pdb
+D:\Code Research\Nostale\NosCore\Contracts\obj\Debug\net8.0\ref\Contracts.dll
+D:\Code Research\Nostale\NosCore\Contracts\obj\Debug\net8.0\Contracts.csproj.AssemblyReference.cache
+D:\Code Research\Nostale\NosCore\Contracts\obj\Debug\net8.0\Contracts.csproj.CopyComplete
+D:\Code Research\Nostale\NosCore\Contracts\bin\Debug\net8.0\NosCore.Sdk.dll
+D:\Code Research\Nostale\NosCore\Contracts\bin\Debug\net8.0\NosCore.Sdk.pdb
+S:\Code Research\Nostale\NosCore\Contracts\bin\Debug\net8.0\Contracts.deps.json
+S:\Code Research\Nostale\NosCore\Contracts\bin\Debug\net8.0\Contracts.dll
+S:\Code Research\Nostale\NosCore\Contracts\bin\Debug\net8.0\Contracts.pdb
+S:\Code Research\Nostale\NosCore\Contracts\bin\Debug\net8.0\NosCore.Sdk.dll
+S:\Code Research\Nostale\NosCore\Contracts\bin\Debug\net8.0\NosCore.Sdk.pdb
+S:\Code Research\Nostale\NosCore\Contracts\obj\Debug\net8.0\Contracts.csproj.AssemblyReference.cache
+S:\Code Research\Nostale\NosCore\Contracts\obj\Debug\net8.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+S:\Code Research\Nostale\NosCore\Contracts\obj\Debug\net8.0\Contracts.AssemblyInfoInputs.cache
+S:\Code Research\Nostale\NosCore\Contracts\obj\Debug\net8.0\Contracts.AssemblyInfo.cs
+S:\Code Research\Nostale\NosCore\Contracts\obj\Debug\net8.0\Contracts.csproj.CoreCompileInputs.cache
+S:\Code Research\Nostale\NosCore\Contracts\obj\Debug\net8.0\Contracts.csproj.Up2Date
+S:\Code Research\Nostale\NosCore\Contracts\obj\Debug\net8.0\Contracts.dll
+S:\Code Research\Nostale\NosCore\Contracts\obj\Debug\net8.0\refint\Contracts.dll
+S:\Code Research\Nostale\NosCore\Contracts\obj\Debug\net8.0\Contracts.pdb
+S:\Code Research\Nostale\NosCore\Contracts\obj\Debug\net8.0\ref\Contracts.dll
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\Contracts\bin\Debug\net8.0\Contracts.deps.json
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\Contracts\bin\Debug\net8.0\Contracts.dll
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\Contracts\bin\Debug\net8.0\Contracts.pdb
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\Contracts\bin\Debug\net8.0\NosCore.Sdk.dll
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\Contracts\bin\Debug\net8.0\NosCore.Sdk.pdb
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\Contracts\obj\Debug\net8.0\Contracts.csproj.AssemblyReference.cache
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\Contracts\obj\Debug\net8.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\Contracts\obj\Debug\net8.0\Contracts.AssemblyInfoInputs.cache
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\Contracts\obj\Debug\net8.0\Contracts.AssemblyInfo.cs
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\Contracts\obj\Debug\net8.0\Contracts.csproj.CoreCompileInputs.cache
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\Contracts\obj\Debug\net8.0\Contracts.csproj.Up2Date
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\Contracts\obj\Debug\net8.0\Contracts.dll
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\Contracts\obj\Debug\net8.0\refint\Contracts.dll
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\Contracts\obj\Debug\net8.0\Contracts.pdb
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\Contracts\obj\Debug\net8.0\ref\Contracts.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\Contracts\bin\Debug\net8.0\Contracts.deps.json
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\Contracts\bin\Debug\net8.0\Contracts.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\Contracts\bin\Debug\net8.0\Contracts.pdb
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\Contracts\bin\Debug\net8.0\NosCore.Sdk.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\Contracts\bin\Debug\net8.0\NosCore.Sdk.pdb
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\Contracts\obj\Debug\net8.0\Contracts.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\Contracts\obj\Debug\net8.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\Contracts\obj\Debug\net8.0\Contracts.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\Contracts\obj\Debug\net8.0\Contracts.AssemblyInfo.cs
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\Contracts\obj\Debug\net8.0\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\Contracts\obj\Debug\net8.0\Contracts.csproj.Up2Date
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\Contracts\obj\Debug\net8.0\Contracts.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\Contracts\obj\Debug\net8.0\refint\Contracts.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\Contracts\obj\Debug\net8.0\Contracts.pdb
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\Contracts\obj\Debug\net8.0\ref\Contracts.dll

@@ -1,0 +1,48 @@
+D:\Code Research\Nostale\NosCore\NosCore.ServiceDefaults\bin\Debug\net8.0\NosCore.ServiceDefaults.deps.json
+D:\Code Research\Nostale\NosCore\NosCore.ServiceDefaults\bin\Debug\net8.0\NosCore.ServiceDefaults.dll
+D:\Code Research\Nostale\NosCore\NosCore.ServiceDefaults\bin\Debug\net8.0\NosCore.ServiceDefaults.pdb
+D:\Code Research\Nostale\NosCore\NosCore.ServiceDefaults\obj\Debug\net8.0\NosCore.ServiceDefaults.csproj.AssemblyReference.cache
+D:\Code Research\Nostale\NosCore\NosCore.ServiceDefaults\obj\Debug\net8.0\NosCore.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code Research\Nostale\NosCore\NosCore.ServiceDefaults\obj\Debug\net8.0\NosCore.ServiceDefaults.AssemblyInfoInputs.cache
+D:\Code Research\Nostale\NosCore\NosCore.ServiceDefaults\obj\Debug\net8.0\NosCore.ServiceDefaults.AssemblyInfo.cs
+D:\Code Research\Nostale\NosCore\NosCore.ServiceDefaults\obj\Debug\net8.0\NosCore.ServiceDefaults.csproj.CoreCompileInputs.cache
+D:\Code Research\Nostale\NosCore\NosCore.ServiceDefaults\obj\Debug\net8.0\NosCore.ServiceDefaults.dll
+D:\Code Research\Nostale\NosCore\NosCore.ServiceDefaults\obj\Debug\net8.0\refint\NosCore.ServiceDefaults.dll
+D:\Code Research\Nostale\NosCore\NosCore.ServiceDefaults\obj\Debug\net8.0\NosCore.ServiceDefaults.pdb
+D:\Code Research\Nostale\NosCore\NosCore.ServiceDefaults\obj\Debug\net8.0\ref\NosCore.ServiceDefaults.dll
+S:\Code Research\Nostale\NosCore\NosCore.ServiceDefaults\bin\Debug\net8.0\NosCore.ServiceDefaults.deps.json
+S:\Code Research\Nostale\NosCore\NosCore.ServiceDefaults\bin\Debug\net8.0\NosCore.ServiceDefaults.dll
+S:\Code Research\Nostale\NosCore\NosCore.ServiceDefaults\bin\Debug\net8.0\NosCore.ServiceDefaults.pdb
+S:\Code Research\Nostale\NosCore\NosCore.ServiceDefaults\obj\Debug\net8.0\NosCore.ServiceDefaults.csproj.AssemblyReference.cache
+S:\Code Research\Nostale\NosCore\NosCore.ServiceDefaults\obj\Debug\net8.0\NosCore.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+S:\Code Research\Nostale\NosCore\NosCore.ServiceDefaults\obj\Debug\net8.0\NosCore.ServiceDefaults.AssemblyInfoInputs.cache
+S:\Code Research\Nostale\NosCore\NosCore.ServiceDefaults\obj\Debug\net8.0\NosCore.ServiceDefaults.AssemblyInfo.cs
+S:\Code Research\Nostale\NosCore\NosCore.ServiceDefaults\obj\Debug\net8.0\NosCore.ServiceDefaults.csproj.CoreCompileInputs.cache
+S:\Code Research\Nostale\NosCore\NosCore.ServiceDefaults\obj\Debug\net8.0\NosCore.ServiceDefaults.dll
+S:\Code Research\Nostale\NosCore\NosCore.ServiceDefaults\obj\Debug\net8.0\refint\NosCore.ServiceDefaults.dll
+S:\Code Research\Nostale\NosCore\NosCore.ServiceDefaults\obj\Debug\net8.0\NosCore.ServiceDefaults.pdb
+S:\Code Research\Nostale\NosCore\NosCore.ServiceDefaults\obj\Debug\net8.0\ref\NosCore.ServiceDefaults.dll
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ServiceDefaults\bin\Debug\net8.0\NosCore.ServiceDefaults.deps.json
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ServiceDefaults\bin\Debug\net8.0\NosCore.ServiceDefaults.dll
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ServiceDefaults\bin\Debug\net8.0\NosCore.ServiceDefaults.pdb
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ServiceDefaults\obj\Debug\net8.0\NosCore.ServiceDefaults.csproj.AssemblyReference.cache
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ServiceDefaults\obj\Debug\net8.0\NosCore.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ServiceDefaults\obj\Debug\net8.0\NosCore.ServiceDefaults.AssemblyInfoInputs.cache
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ServiceDefaults\obj\Debug\net8.0\NosCore.ServiceDefaults.AssemblyInfo.cs
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ServiceDefaults\obj\Debug\net8.0\NosCore.ServiceDefaults.csproj.CoreCompileInputs.cache
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ServiceDefaults\obj\Debug\net8.0\NosCore.ServiceDefaults.dll
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ServiceDefaults\obj\Debug\net8.0\refint\NosCore.ServiceDefaults.dll
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ServiceDefaults\obj\Debug\net8.0\NosCore.ServiceDefaults.pdb
+D:\Volume\Code Research\Nostale - Own\NosCore_Web\NosCore.ServiceDefaults\obj\Debug\net8.0\ref\NosCore.ServiceDefaults.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ServiceDefaults\bin\Debug\net8.0\NosCore.ServiceDefaults.deps.json
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ServiceDefaults\bin\Debug\net8.0\NosCore.ServiceDefaults.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ServiceDefaults\bin\Debug\net8.0\NosCore.ServiceDefaults.pdb
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ServiceDefaults\obj\Debug\net8.0\NosCore.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ServiceDefaults\obj\Debug\net8.0\NosCore.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ServiceDefaults\obj\Debug\net8.0\NosCore.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ServiceDefaults\obj\Debug\net8.0\NosCore.ServiceDefaults.AssemblyInfo.cs
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ServiceDefaults\obj\Debug\net8.0\NosCore.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ServiceDefaults\obj\Debug\net8.0\NosCore.ServiceDefaults.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ServiceDefaults\obj\Debug\net8.0\refint\NosCore.ServiceDefaults.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ServiceDefaults\obj\Debug\net8.0\NosCore.ServiceDefaults.pdb
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.ServiceDefaults\obj\Debug\net8.0\ref\NosCore.ServiceDefaults.dll

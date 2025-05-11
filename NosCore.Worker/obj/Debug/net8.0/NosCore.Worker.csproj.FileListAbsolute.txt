@@ -1,0 +1,126 @@
+D:\Code Research\Nostale\NosCore\NosCore.Worker\bin\Debug\net8.0\appsettings.Development.json
+D:\Code Research\Nostale\NosCore\NosCore.Worker\bin\Debug\net8.0\appsettings.json
+D:\Code Research\Nostale\NosCore\NosCore.Worker\bin\Debug\net8.0\NosCore.Worker.exe
+D:\Code Research\Nostale\NosCore\NosCore.Worker\bin\Debug\net8.0\NosCore.Worker.deps.json
+D:\Code Research\Nostale\NosCore\NosCore.Worker\bin\Debug\net8.0\NosCore.Worker.runtimeconfig.json
+D:\Code Research\Nostale\NosCore\NosCore.Worker\bin\Debug\net8.0\NosCore.Worker.dll
+D:\Code Research\Nostale\NosCore\NosCore.Worker\bin\Debug\net8.0\NosCore.Worker.pdb
+D:\Code Research\Nostale\NosCore\NosCore.Worker\bin\Debug\net8.0\Google.Protobuf.dll
+D:\Code Research\Nostale\NosCore\NosCore.Worker\bin\Debug\net8.0\Grpc.Core.Api.dll
+D:\Code Research\Nostale\NosCore\NosCore.Worker\bin\Debug\net8.0\Grpc.Net.Client.dll
+D:\Code Research\Nostale\NosCore\NosCore.Worker\bin\Debug\net8.0\Grpc.Net.Common.dll
+D:\Code Research\Nostale\NosCore\NosCore.Worker\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+D:\Code Research\Nostale\NosCore\NosCore.Worker\bin\Debug\net8.0\Microsoft.Extensions.AmbientMetadata.Application.dll
+D:\Code Research\Nostale\NosCore\NosCore.Worker\bin\Debug\net8.0\Microsoft.Extensions.Compliance.Abstractions.dll
+D:\Code Research\Nostale\NosCore\NosCore.Worker\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.AutoActivation.dll
+D:\Code Research\Nostale\NosCore\NosCore.Worker\bin\Debug\net8.0\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\Code Research\Nostale\NosCore\NosCore.Worker\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.ExceptionSummarization.dll
+D:\Code Research\Nostale\NosCore\NosCore.Worker\bin\Debug\net8.0\Microsoft.Extensions.Http.Diagnostics.dll
+D:\Code Research\Nostale\NosCore\NosCore.Worker\bin\Debug\net8.0\Microsoft.Extensions.Http.Resilience.dll
+D:\Code Research\Nostale\NosCore\NosCore.Worker\bin\Debug\net8.0\Microsoft.Extensions.Resilience.dll
+D:\Code Research\Nostale\NosCore\NosCore.Worker\bin\Debug\net8.0\Microsoft.Extensions.ServiceDiscovery.dll
+D:\Code Research\Nostale\NosCore\NosCore.Worker\bin\Debug\net8.0\Microsoft.Extensions.ServiceDiscovery.Abstractions.dll
+D:\Code Research\Nostale\NosCore\NosCore.Worker\bin\Debug\net8.0\Microsoft.Extensions.Telemetry.dll
+D:\Code Research\Nostale\NosCore\NosCore.Worker\bin\Debug\net8.0\Microsoft.Extensions.Telemetry.Abstractions.dll
+D:\Code Research\Nostale\NosCore\NosCore.Worker\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Code Research\Nostale\NosCore\NosCore.Worker\bin\Debug\net8.0\OpenTelemetry.dll
+D:\Code Research\Nostale\NosCore\NosCore.Worker\bin\Debug\net8.0\OpenTelemetry.Api.dll
+D:\Code Research\Nostale\NosCore\NosCore.Worker\bin\Debug\net8.0\OpenTelemetry.Api.ProviderBuilderExtensions.dll
+D:\Code Research\Nostale\NosCore\NosCore.Worker\bin\Debug\net8.0\OpenTelemetry.Exporter.OpenTelemetryProtocol.dll
+D:\Code Research\Nostale\NosCore\NosCore.Worker\bin\Debug\net8.0\OpenTelemetry.Extensions.Hosting.dll
+D:\Code Research\Nostale\NosCore\NosCore.Worker\bin\Debug\net8.0\OpenTelemetry.Instrumentation.AspNetCore.dll
+D:\Code Research\Nostale\NosCore\NosCore.Worker\bin\Debug\net8.0\OpenTelemetry.Instrumentation.GrpcNetClient.dll
+D:\Code Research\Nostale\NosCore\NosCore.Worker\bin\Debug\net8.0\OpenTelemetry.Instrumentation.Http.dll
+D:\Code Research\Nostale\NosCore\NosCore.Worker\bin\Debug\net8.0\OpenTelemetry.Instrumentation.Runtime.dll
+D:\Code Research\Nostale\NosCore\NosCore.Worker\bin\Debug\net8.0\Polly.Core.dll
+D:\Code Research\Nostale\NosCore\NosCore.Worker\bin\Debug\net8.0\Polly.Extensions.dll
+D:\Code Research\Nostale\NosCore\NosCore.Worker\bin\Debug\net8.0\Polly.RateLimiting.dll
+D:\Code Research\Nostale\NosCore\NosCore.Worker\bin\Debug\net8.0\NosCore.ServiceDefaults.dll
+D:\Code Research\Nostale\NosCore\NosCore.Worker\bin\Debug\net8.0\NosCore.ServiceDefaults.pdb
+D:\Code Research\Nostale\NosCore\NosCore.Worker\obj\Debug\net8.0\NosCore.Worker.csproj.AssemblyReference.cache
+D:\Code Research\Nostale\NosCore\NosCore.Worker\obj\Debug\net8.0\NosCore.Worker.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code Research\Nostale\NosCore\NosCore.Worker\obj\Debug\net8.0\NosCore.Worker.AssemblyInfoInputs.cache
+D:\Code Research\Nostale\NosCore\NosCore.Worker\obj\Debug\net8.0\NosCore.Worker.AssemblyInfo.cs
+D:\Code Research\Nostale\NosCore\NosCore.Worker\obj\Debug\net8.0\NosCore.Worker.csproj.CoreCompileInputs.cache
+D:\Code Research\Nostale\NosCore\NosCore.Worker\obj\Debug\net8.0\NosCore.Worker.csproj.CopyComplete
+D:\Code Research\Nostale\NosCore\NosCore.Worker\obj\Debug\net8.0\NosCore.Worker.dll
+D:\Code Research\Nostale\NosCore\NosCore.Worker\obj\Debug\net8.0\refint\NosCore.Worker.dll
+D:\Code Research\Nostale\NosCore\NosCore.Worker\obj\Debug\net8.0\NosCore.Worker.pdb
+D:\Code Research\Nostale\NosCore\NosCore.Worker\obj\Debug\net8.0\NosCore.Worker.genruntimeconfig.cache
+D:\Code Research\Nostale\NosCore\NosCore.Worker\obj\Debug\net8.0\ref\NosCore.Worker.dll
+D:\Code Research\Nostale\NosCore\NosCore.Worker\bin\Debug\net8.0\MassTransit.dll
+D:\Code Research\Nostale\NosCore\NosCore.Worker\bin\Debug\net8.0\MassTransit.Abstractions.dll
+D:\Code Research\Nostale\NosCore\NosCore.Worker\bin\Debug\net8.0\MassTransit.RabbitMqTransport.dll
+D:\Code Research\Nostale\NosCore\NosCore.Worker\bin\Debug\net8.0\RabbitMQ.Client.dll
+D:\Code Research\Nostale\NosCore\NosCore.Worker\bin\Debug\net8.0\Contracts.dll
+D:\Code Research\Nostale\NosCore\NosCore.Worker\bin\Debug\net8.0\Contracts.pdb
+D:\Code Research\Nostale\NosCore\NosCore.Worker\bin\Debug\net8.0\Polly.dll
+D:\Code Research\Nostale\NosCore\NosCore.Worker\bin\Debug\net8.0\NosCore.Packets.dll
+D:\Code Research\Nostale\NosCore\NosCore.Worker\bin\Debug\net8.0\NosCore.Packets.pdb
+D:\Code Research\Nostale\NosCore\NosCore.Worker\bin\Debug\net8.0\NosCore.Tcp.dll
+D:\Code Research\Nostale\NosCore\NosCore.Worker\bin\Debug\net8.0\NosCore.Tcp.pdb
+D:\Code Research\Nostale\NosCore\NosCore.Worker\bin\Debug\net8.0\NosCore.Sdk.dll
+D:\Code Research\Nostale\NosCore\NosCore.Worker\bin\Debug\net8.0\NosCore.Sdk.pdb
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.Worker\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.Worker\bin\Debug\net8.0\appsettings.json
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.Worker\bin\Debug\net8.0\NosCore.Worker.exe
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.Worker\bin\Debug\net8.0\NosCore.Worker.deps.json
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.Worker\bin\Debug\net8.0\NosCore.Worker.runtimeconfig.json
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.Worker\bin\Debug\net8.0\NosCore.Worker.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.Worker\bin\Debug\net8.0\NosCore.Worker.pdb
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.Worker\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.Worker\bin\Debug\net8.0\Grpc.Core.Api.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.Worker\bin\Debug\net8.0\Grpc.Net.Client.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.Worker\bin\Debug\net8.0\Grpc.Net.Common.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.Worker\bin\Debug\net8.0\MassTransit.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.Worker\bin\Debug\net8.0\MassTransit.Abstractions.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.Worker\bin\Debug\net8.0\MassTransit.RabbitMqTransport.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.Worker\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.Worker\bin\Debug\net8.0\Microsoft.Extensions.AmbientMetadata.Application.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.Worker\bin\Debug\net8.0\Microsoft.Extensions.Compliance.Abstractions.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.Worker\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.AutoActivation.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.Worker\bin\Debug\net8.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.Worker\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.ExceptionSummarization.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.Worker\bin\Debug\net8.0\Microsoft.Extensions.Http.Diagnostics.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.Worker\bin\Debug\net8.0\Microsoft.Extensions.Http.Resilience.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.Worker\bin\Debug\net8.0\Microsoft.Extensions.Resilience.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.Worker\bin\Debug\net8.0\Microsoft.Extensions.ServiceDiscovery.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.Worker\bin\Debug\net8.0\Microsoft.Extensions.ServiceDiscovery.Abstractions.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.Worker\bin\Debug\net8.0\Microsoft.Extensions.Telemetry.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.Worker\bin\Debug\net8.0\Microsoft.Extensions.Telemetry.Abstractions.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.Worker\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.Worker\bin\Debug\net8.0\OpenTelemetry.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.Worker\bin\Debug\net8.0\OpenTelemetry.Api.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.Worker\bin\Debug\net8.0\OpenTelemetry.Api.ProviderBuilderExtensions.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.Worker\bin\Debug\net8.0\OpenTelemetry.Exporter.OpenTelemetryProtocol.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.Worker\bin\Debug\net8.0\OpenTelemetry.Extensions.Hosting.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.Worker\bin\Debug\net8.0\OpenTelemetry.Instrumentation.AspNetCore.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.Worker\bin\Debug\net8.0\OpenTelemetry.Instrumentation.GrpcNetClient.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.Worker\bin\Debug\net8.0\OpenTelemetry.Instrumentation.Http.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.Worker\bin\Debug\net8.0\OpenTelemetry.Instrumentation.Runtime.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.Worker\bin\Debug\net8.0\Polly.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.Worker\bin\Debug\net8.0\Polly.Core.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.Worker\bin\Debug\net8.0\Polly.Extensions.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.Worker\bin\Debug\net8.0\Polly.RateLimiting.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.Worker\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.Worker\bin\Debug\net8.0\Contracts.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.Worker\bin\Debug\net8.0\NosCore.Packets.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.Worker\bin\Debug\net8.0\NosCore.Sdk.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.Worker\bin\Debug\net8.0\NosCore.ServiceDefaults.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.Worker\bin\Debug\net8.0\NosCore.Tcp.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.Worker\bin\Debug\net8.0\Contracts.pdb
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.Worker\bin\Debug\net8.0\NosCore.Packets.pdb
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.Worker\bin\Debug\net8.0\NosCore.ServiceDefaults.pdb
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.Worker\bin\Debug\net8.0\NosCore.Tcp.pdb
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.Worker\bin\Debug\net8.0\NosCore.Sdk.pdb
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.Worker\obj\Debug\net8.0\NosCore.Worker.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.Worker\obj\Debug\net8.0\NosCore.Worker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.Worker\obj\Debug\net8.0\NosCore.Worker.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.Worker\obj\Debug\net8.0\NosCore.Worker.AssemblyInfo.cs
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.Worker\obj\Debug\net8.0\NosCore.Worker.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.Worker\obj\Debug\net8.0\NosCore..825916B0.Up2Date
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.Worker\obj\Debug\net8.0\NosCore.Worker.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.Worker\obj\Debug\net8.0\refint\NosCore.Worker.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.Worker\obj\Debug\net8.0\NosCore.Worker.pdb
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.Worker\obj\Debug\net8.0\NosCore.Worker.genruntimeconfig.cache
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.Worker\obj\Debug\net8.0\ref\NosCore.Worker.dll

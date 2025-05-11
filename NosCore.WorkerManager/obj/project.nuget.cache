@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "43Z5Xh1psr0ojpYYG+sVXYPLeJGXEjJ/fQLPgSX5RKOLtWOVG6Fw/RBf7olG386IvcLvrRTuKV1AD+hgKBUihA==",
+  "success": true,
+  "projectFilePath": "D:\\Code Research\\Nostale\\NosCore\\NosCore.WorkerManager\\NosCore.WorkerManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\watsontcp\\6.0.0\\watsontcp.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

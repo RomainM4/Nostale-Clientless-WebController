@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Projects\\Nostale-Projects\\NosCore_Web\\NosCore.Web\\NosCore.Web.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Projects\\Nostale-Projects\\NosCore_Web\\NosCore.Web\\NosCore.Web.Client\\wwwroot\\appsettings.Development.json",
+      "PackagePath": "staticwebassets\\appsettings.Development.json"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Projects\\Nostale-Projects\\NosCore_Web\\NosCore.Web\\NosCore.Web.Client\\wwwroot\\appsettings.json",
+      "PackagePath": "staticwebassets\\appsettings.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.NosCore.Web.Client.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.NosCore.Web.Client.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.NosCore.Web.Client.props",
+      "PackagePath": "build\\NosCore.Web.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.NosCore.Web.Client.props",
+      "PackagePath": "buildMultiTargeting\\NosCore.Web.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.NosCore.Web.Client.props",
+      "PackagePath": "buildTransitive\\NosCore.Web.Client.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\NosCore.GameObject\NosCore.GameObject.csproj" />
+    <ProjectReference Include="..\NosCore.Packets\NosCore.Packets.csproj" />
+  </ItemGroup>
+
+</Project>

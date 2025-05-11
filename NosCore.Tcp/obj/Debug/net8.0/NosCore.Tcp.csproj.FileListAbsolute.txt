@@ -1,0 +1,22 @@
+D:\Code Research\Nostale\NosCore\NosCore.Tcp\bin\Debug\net8.0\NosCore.Tcp.deps.json
+D:\Code Research\Nostale\NosCore\NosCore.Tcp\bin\Debug\net8.0\NosCore.Tcp.dll
+D:\Code Research\Nostale\NosCore\NosCore.Tcp\bin\Debug\net8.0\NosCore.Tcp.pdb
+D:\Code Research\Nostale\NosCore\NosCore.Tcp\obj\Debug\net8.0\NosCore.Tcp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code Research\Nostale\NosCore\NosCore.Tcp\obj\Debug\net8.0\NosCore.Tcp.AssemblyInfoInputs.cache
+D:\Code Research\Nostale\NosCore\NosCore.Tcp\obj\Debug\net8.0\NosCore.Tcp.AssemblyInfo.cs
+D:\Code Research\Nostale\NosCore\NosCore.Tcp\obj\Debug\net8.0\NosCore.Tcp.csproj.CoreCompileInputs.cache
+D:\Code Research\Nostale\NosCore\NosCore.Tcp\obj\Debug\net8.0\NosCore.Tcp.dll
+D:\Code Research\Nostale\NosCore\NosCore.Tcp\obj\Debug\net8.0\refint\NosCore.Tcp.dll
+D:\Code Research\Nostale\NosCore\NosCore.Tcp\obj\Debug\net8.0\NosCore.Tcp.pdb
+D:\Code Research\Nostale\NosCore\NosCore.Tcp\obj\Debug\net8.0\ref\NosCore.Tcp.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.Tcp\bin\Debug\net8.0\NosCore.Tcp.deps.json
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.Tcp\bin\Debug\net8.0\NosCore.Tcp.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.Tcp\bin\Debug\net8.0\NosCore.Tcp.pdb
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.Tcp\obj\Debug\net8.0\NosCore.Tcp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.Tcp\obj\Debug\net8.0\NosCore.Tcp.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.Tcp\obj\Debug\net8.0\NosCore.Tcp.AssemblyInfo.cs
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.Tcp\obj\Debug\net8.0\NosCore.Tcp.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.Tcp\obj\Debug\net8.0\NosCore.Tcp.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.Tcp\obj\Debug\net8.0\refint\NosCore.Tcp.dll
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.Tcp\obj\Debug\net8.0\NosCore.Tcp.pdb
+C:\Users\admin\Desktop\Projects\Nostale-Projects\NosCore_Web\NosCore.Tcp\obj\Debug\net8.0\ref\NosCore.Tcp.dll

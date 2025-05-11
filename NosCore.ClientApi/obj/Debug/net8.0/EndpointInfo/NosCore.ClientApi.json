@@ -1,0 +1,387 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "NosCore.ClientApi",
+    "version": "1.0"
+  },
+  "paths": {
+    "/client/packet/send": {
+      "post": {
+        "tags": [
+          "NosCore.ClientApi"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/PacketObserverRequest"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/client/nosbazar/open": {
+      "post": {
+        "tags": [
+          "NosCore.ClientApi"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/OpenRequest"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/client/nosbazar/search": {
+      "post": {
+        "tags": [
+          "NosCore.ClientApi"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/SearchRequest"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/client/auth/disconnect": {
+      "post": {
+        "tags": [
+          "NosCore.ClientApi"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/DisconnectClientConnectionRequest"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/client/auth/login": {
+      "post": {
+        "tags": [
+          "NosCore.ClientApi"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/LoginClientConnectionRequest"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "CategoryClassType": {
+        "enum": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "type": "integer",
+        "format": "int32"
+      },
+      "CategoryLevelType": {
+        "enum": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18
+        ],
+        "type": "integer",
+        "format": "int32"
+      },
+      "CategoryMainType": {
+        "enum": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "type": "integer",
+        "format": "int32"
+      },
+      "CategoryRarityType": {
+        "enum": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "type": "integer",
+        "format": "int32"
+      },
+      "CategorySortType": {
+        "enum": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "type": "integer",
+        "format": "int32"
+      },
+      "CategoryUpgradeType": {
+        "enum": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11
+        ],
+        "type": "integer",
+        "format": "int32"
+      },
+      "DisconnectClientConnectionRequest": {
+        "type": "object",
+        "properties": {
+          "unused": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      },
+      "LoginClientConnectionRequest": {
+        "type": "object",
+        "properties": {
+          "token": {
+            "type": "string",
+            "nullable": true
+          },
+          "accountName": {
+            "type": "string",
+            "nullable": true
+          },
+          "characterSlot": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "serverType": {
+            "$ref": "#/components/schemas/ServerType"
+          },
+          "canalSlot": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "proxyType": {
+            "$ref": "#/components/schemas/ProxyType"
+          },
+          "username": {
+            "type": "string",
+            "nullable": true
+          },
+          "password": {
+            "type": "string",
+            "nullable": true
+          },
+          "host": {
+            "type": "string",
+            "nullable": true
+          },
+          "port": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      },
+      "NoscoreObservablePacket": {
+        "type": "object",
+        "properties": {
+          "value": {
+            "type": "string",
+            "nullable": true
+          },
+          "waitTimeMs": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "observationTimeoutMs": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "observedPackets": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "OpenRequest": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      },
+      "PacketObserverRequest": {
+        "type": "object",
+        "properties": {
+          "role": {
+            "$ref": "#/components/schemas/Role"
+          },
+          "packets": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/NoscoreObservablePacket"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "ProxyType": {
+        "enum": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "type": "integer",
+        "format": "int32"
+      },
+      "Role": {
+        "enum": [
+          0,
+          1,
+          2
+        ],
+        "type": "integer",
+        "format": "int32"
+      },
+      "SearchRequest": {
+        "type": "object",
+        "properties": {
+          "pageSearch": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "mainType": {
+            "$ref": "#/components/schemas/CategoryMainType"
+          },
+          "classType": {
+            "$ref": "#/components/schemas/CategoryClassType"
+          },
+          "levelType": {
+            "$ref": "#/components/schemas/CategoryLevelType"
+          },
+          "rarityType": {
+            "$ref": "#/components/schemas/CategoryRarityType"
+          },
+          "upgradeType": {
+            "$ref": "#/components/schemas/CategoryUpgradeType"
+          },
+          "sortType": {
+            "$ref": "#/components/schemas/CategorySortType"
+          }
+        },
+        "additionalProperties": false
+      },
+      "ServerType": {
+        "enum": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "type": "integer",
+        "format": "int32"
+      }
+    }
+  }
+}

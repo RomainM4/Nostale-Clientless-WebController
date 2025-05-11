@@ -1,0 +1,11 @@
+D:\Code Research\Nostale\NosCore\NostaleSdk\obj\Debug\net8.0\NostaleSdk.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code Research\Nostale\NosCore\NostaleSdk\obj\Debug\net8.0\NostaleSdk.AssemblyInfoInputs.cache
+D:\Code Research\Nostale\NosCore\NostaleSdk\obj\Debug\net8.0\NostaleSdk.AssemblyInfo.cs
+D:\Code Research\Nostale\NosCore\NostaleSdk\obj\Debug\net8.0\NostaleSdk.csproj.CoreCompileInputs.cache
+D:\Code Research\Nostale\NosCore\NostaleSdk\bin\Debug\net8.0\NostaleSdk.deps.json
+D:\Code Research\Nostale\NosCore\NostaleSdk\bin\Debug\net8.0\NostaleSdk.dll
+D:\Code Research\Nostale\NosCore\NostaleSdk\bin\Debug\net8.0\NostaleSdk.pdb
+D:\Code Research\Nostale\NosCore\NostaleSdk\obj\Debug\net8.0\NostaleSdk.dll
+D:\Code Research\Nostale\NosCore\NostaleSdk\obj\Debug\net8.0\refint\NostaleSdk.dll
+D:\Code Research\Nostale\NosCore\NostaleSdk\obj\Debug\net8.0\NostaleSdk.pdb
+D:\Code Research\Nostale\NosCore\NostaleSdk\obj\Debug\net8.0\ref\NostaleSdk.dll

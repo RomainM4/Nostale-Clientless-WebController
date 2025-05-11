@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "5YWv0ebjCI9yz899BQJIQTjNWLyLm2/NEsvTay/VNi8=",
+  "Source": "NosCore.GameAuthenticationApi",
+  "BasePath": "_content/NosCore.GameAuthenticationApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

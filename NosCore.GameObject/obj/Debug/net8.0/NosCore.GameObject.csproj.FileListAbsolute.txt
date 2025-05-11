@@ -1,0 +1,5 @@
+D:\Code Research\Nostale\NosCore\NosCore.GameObject\obj\Debug\net8.0\NosCore.GameObject.csproj.AssemblyReference.cache
+D:\Code Research\Nostale\NosCore\NosCore.GameObject\obj\Debug\net8.0\NosCore.GameObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code Research\Nostale\NosCore\NosCore.GameObject\obj\Debug\net8.0\NosCore.GameObject.AssemblyInfoInputs.cache
+D:\Code Research\Nostale\NosCore\NosCore.GameObject\obj\Debug\net8.0\NosCore.GameObject.AssemblyInfo.cs
+D:\Code Research\Nostale\NosCore\NosCore.GameObject\obj\Debug\net8.0\NosCore.GameObject.csproj.CoreCompileInputs.cache
