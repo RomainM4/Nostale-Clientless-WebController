@@ -10,7 +10,7 @@
 
 ---
 
-<img src="https://ntdev.tech/Assets/Projects/NostaleClientLessWebController/Poc.gif" alt="Databay showcase gif" title="Databay showcase gif"/>
+![Login and Nosbazar items search](https://ntdev.tech/Assets/Projects/NostaleClientLessWebController/Poc.gif)
 
 ---
 
