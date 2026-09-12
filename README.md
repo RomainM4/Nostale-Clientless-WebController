@@ -10,10 +10,6 @@
 
 ---
 
-![Login and Nosbazar items search](https://github.com/RomainM4/Nostale-Clientless-WebController/blob/main/Demo/Poc_GoToNosbazar.gif)
-
----
-
 ![Login and Nosbazar items search](https://github.com/RomainM4/Nostale-Clientless-WebController/blob/main/Demo/Poc.gif)
 
 ---
